@@ -5,8 +5,8 @@ Hasura graphql engine with API and database:
 [https://awesome-hasura-dashboard.herokuapp.com/console/api-explorer](https://awesome-hasura-dashboard.herokuapp.com/console/api-explorer)
 
 Things to improve:
-- add authorisation to add and move issues,
-- add dark theme based on browser settings,
-- add drag and drop functionality with accessibility support
-- move up and down in category
-- add pagination to serve bigger number of issues
+- Add authorisation to add and move issues,
+- Add dark theme based on browser settings,
+- Add drag and drop functionality with accessibility support
+- Move up and down in category
+- Add pagination to serve bigger number of issues
