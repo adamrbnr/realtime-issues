@@ -1,7 +1,7 @@
-Real-time issue tracker powered by react, graphql, and Postgres:
+Real-time issue tracker powered by react, graphql, and PostgreSQL:
 [https://arybins.github.io/realtime-issues/](https://arybins.github.io/realtime-issues/)
 
-Hasura graphql engine with API and database:
+Graphql API and PostgreSQL database:
 [https://awesome-hasura-dashboard.herokuapp.com/console/api-explorer](https://awesome-hasura-dashboard.herokuapp.com/console/api-explorer)
 
 Things to improve:
