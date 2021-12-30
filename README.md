@@ -1,5 +1,5 @@
 Real-time issue tracker powered by react, graphql, and PostgreSQL:
-[https://adamrrudolf.github.io/realtime-issues/](https://arybins.github.io/realtime-issues/)
+[https://adamrrudolf.github.io/realtime-issues/](https://adamrrudolf.github.io/realtime-issues/)
 
 Graphql API and PostgreSQL database:
 [https://awesome-hasura-dashboard.herokuapp.com/console/api-explorer](https://awesome-hasura-dashboard.herokuapp.com/console/api-explorer)
